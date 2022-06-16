@@ -8,6 +8,9 @@ public class Welcomer{
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
 	public String sayNeedGold(){
-		return "Not enough gold";
+	        return "Not enough gold";
 	}
+	public String sayHunter(){
+	        return "THe big hunter";
+	}	
 }
